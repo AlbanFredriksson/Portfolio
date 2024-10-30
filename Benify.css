@@ -263,7 +263,7 @@ html {scroll-behavior: smooth;}
   justify-content: center;
   max-width: 80%; /* Restrict width instead of large margins */
 }
-@media (max-width: 950px) {
+@media (max-width: 1920px) {
   .view-project {
     font-size: 3vw;
     max-width: 90%;

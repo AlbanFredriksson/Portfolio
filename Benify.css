@@ -263,9 +263,11 @@ html {scroll-behavior: smooth;}
   justify-content: center;
   max-width: 80%; /* Restrict width instead of large margins */
 }
+
+/* Adjust width and padding on smaller screens */
 @media (max-width: 950px) {
   .view-project {
-    font-size: 2vw;
+    font-size: 3vw;
     max-width: 90%;
     padding: 1rem;
   }
@@ -273,7 +275,7 @@ html {scroll-behavior: smooth;}
 
 @media (max-width: 600px) {
   .view-project {
-    font-size: 2vw;
+    font-size: 4vw;
     padding: 0.5rem;
   }
 }

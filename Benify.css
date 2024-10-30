@@ -261,22 +261,8 @@ html {scroll-behavior: smooth;}
   margin: 0 auto; /* Center alignment */
   display: flex;
   justify-content: center;
-  max-width: 80%; /* Restrict width instead of large margins */
+  max-width: 100%; /* Restrict width instead of large margins */
 }
 
-/* Adjust width and padding on smaller screens */
-@media (max-width: 950px) {
-  .view-project {
-    font-size: 4vw;
-    max-width: 90%;
-    padding: 1rem;
-  }
-}
 
-@media (max-width: 600px) {
-  .view-project {
-    font-size: 4vw;
-    padding: 0.5rem;
-  }
-}
 

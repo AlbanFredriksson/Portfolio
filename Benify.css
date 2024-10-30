@@ -261,7 +261,7 @@ html {scroll-behavior: smooth;}
   margin: 0 auto; /* Center alignment */
   display: flex;
   justify-content: center;
-  max-width: 100%; /* Restrict width instead of large margins */
+  max-width: 50%; /* Restrict width instead of large margins */
 }
 
 

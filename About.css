@@ -125,7 +125,7 @@ a {
 }
 
 .footer {
-  margin-top: 20px;
+  margin-top: auto;
   display: flex;
   justify-content: center;
   align-items: center;
